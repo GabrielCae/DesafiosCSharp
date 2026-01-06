@@ -43,7 +43,7 @@ O projeto está estruturado em uma classe de utilitários (`AuxiliarFunctions`) 
 2. Clone este repositório:
    ```bash
    git clone https://github.com/GabrielCae/DesafiosCSharp.git
-1. 
+
 3. Navegue até a pasta do projeto:
    ```bash
    cd DesafiosCSharp
