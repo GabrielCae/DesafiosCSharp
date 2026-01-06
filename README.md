@@ -42,8 +42,8 @@ O projeto está estruturado em uma classe de utilitários (`AuxiliarFunctions`) 
 1. Certifique-se de ter o SDK do .NET 10 instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/GabrielCae/DesafiosCSharp.git](https://github.com/GabrielCae/DesafiosCSharp.git)
-
+   git clone https://github.com/GabrielCae/DesafiosCSharp.git
+1. 
 3. Navegue até a pasta do projeto:
    ```bash
    cd DesafiosCSharp
